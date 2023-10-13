@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Building Tubesynchub](https://tubesynchub.tech/)
 
-- 🌱 I’m currently learning **Open Source Contributions**
+- 🌱 I’m currently learning **to contribute to Open Source Projects**
 
 - 👯 I’m looking to collaborate on **AI Chatbot**
 
